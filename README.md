@@ -21,7 +21,8 @@
 
 Open the script, and the Gradio interface will appear in your browser.
 
-![Gradio UI Home](https://via.placeholder.com/600x300?text=Gradio+UI+Home)
+ <img width="828" height="457" alt="cmd screenshot" src="https://github.com/user-attachments/assets/59c0922d-b7e7-483e-8ce7-e1c629c6badb" />
+
 
 ### 2️⃣ Select Options
 
@@ -29,14 +30,17 @@ Open the script, and the Gradio interface will appear in your browser.
 - Choose the **destination folder**  
 - Select the **media type**  
 
-![Gradio UI Options](https://via.placeholder.com/600x300?text=Select+Options)
+ <img width="1918" height="1178" alt="gadio screenshoy" src="https://github.com/user-attachments/assets/1a1d14b8-1f8a-4432-8719-d3a7f065b1f1" />
+
+
 
 ### 3️⃣ Start Moving Files
 
 Click **Start Moving Files** to begin. The output box will show a **live log** of files as they are moved.
 
-![Gradio UI Output](https://via.placeholder.com/600x300?text=Live+Output+Log)
+ <img width="1918" height="1178" alt="after gadio screeenshot" src="https://github.com/user-attachments/assets/86297e1b-7437-425e-8199-ef6922b4a31d" />
 
+ 
 ---
 
 ## Installation
